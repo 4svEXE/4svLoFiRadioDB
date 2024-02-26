@@ -1,18 +1,18 @@
 [
   {
-    version: 1.0,
-    stations: [
+    "version": 1.0,
+    "stations": [
       {
-        title: "Test Lofi 4 You",
-        image: "img/stations/01.gif",
-        url: "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        favorite: true,
+        "title": "Test Lofi 4 You",
+        "image": "img/stations/01.gif",
+        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
+        "favorite": true,
       },
       {
-        title: "222 Lofi 4 You",
-        image: "img/stations/01.gif",
-        url: "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        favorite: true,
+        "title": "222 Lofi 4 You",
+        "image": "img/stations/01.gif",
+        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
+        "favorite": true,
       },
     ],
   },
