@@ -1,11 +1,11 @@
 [
   {
-    "version": 1.002,
+    "version": 1.003,
     "stations": [
       {
-        "title": "LoFi Hip-Hop",
+        "title": "Cosmo Dreams",
         "image": "img/stations/12.gif",
-        "url": "https://api.audioaddict.com/v1/di/currently_playing",
+        "url": "https://content.audioaddict.com/prd/8/4/6/2/8/2bcced572f2d5181e0a4fd77ba78ecd5676.mp4?purpose=playback&audio_token=e40aca5714401625e3d50918dc359d07&network=di&device=opera_107_windows_10&exp=2024-02-27T19:39:56Z&auth=7caa14e099c586cdfb5e05f81a01cbbcb1591691",
         "favorite": true
       },
       {
@@ -28,7 +28,7 @@
         "favorite": false
       },
       {
-        "title": "Instrumental Hits Radio",
+        "title": "Instrumental Hits",
         "image": "img/stations/03.gif",
         "url": "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3",
         "favorite": false
@@ -47,13 +47,13 @@
         "favorite": false
       },
       {
-        "title": "1.FM - Ambient Psychill",
+        "title": "1.FM",
         "image": "img/stations/07.gif",
         "url": "https://strmreg.1.fm/ambientpsy_mobile_mp3",
         "favorite": false
       },
       {
-        "title": "Hollywood Candlelight and Wine",
+        "title": "Hollywood Wine",
         "image": "img/stations/08.gif",
         "url": "https://stream-158.zeno.fm/5dyp73rrqwzuv?zs=OaGGYtEtSuCERVzBZAJ5rw",
         "favorite": false
