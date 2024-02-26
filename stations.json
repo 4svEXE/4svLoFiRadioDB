@@ -1,30 +1,80 @@
 [
   {
-    "version": 1.001,
+    "version": 1.002,
     "stations": [
       {
+        "title": "LoFi Hip-Hop",
+        "image": "img/stations/12.gif",
+        "url": "https://api.audioaddict.com/v1/di/currently_playing",
+        "favorite": true
+      },
+      {
+        "title": "Yoga Chill",
+        "image": "img/stations/01.gif",
+        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
+        "favorite": false
+      },
+      {
+        "title": "Radio ZEN",
+        "image": "img/stations/05.gif",
+        "url": "https://streaming.shoutcast.com/radiozen",
+        "favorite": false
+      },
+
+      {
+        "title": "Absolute Chillout",
+        "image": "img/stations/02.gif",
+        "url": "https://stream-160.zeno.fm/0r0xa792kwzuv?zs=G0WO2et-SnG7qmsbsTLsqQ",
+        "favorite": false
+      },
+      {
+        "title": "Instrumental Hits Radio",
+        "image": "img/stations/03.gif",
+        "url": "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3",
+        "favorite": false
+      },
+      {
+        "title": "Play Chill Radio",
+        "image": "img/stations/04.gif",
+        "url": "https://c5.auracast.net/listen/play_chill_radio/radio.mp3",
+        "favorite": false
+      },
+      
+      {
+        "title": "Lounge Fm Terrace",
+        "image": "img/stations/06.gif",
+        "url": "https://cast.mediaonline.net.ua/terrace320",
+        "favorite": false
+      },
+      {
+        "title": "1.FM - Ambient Psychill",
+        "image": "img/stations/07.gif",
+        "url": "https://strmreg.1.fm/ambientpsy_mobile_mp3",
+        "favorite": false
+      },
+      {
+        "title": "Hollywood Candlelight and Wine",
+        "image": "img/stations/08.gif",
+        "url": "https://stream-158.zeno.fm/5dyp73rrqwzuv?zs=OaGGYtEtSuCERVzBZAJ5rw",
+        "favorite": false
+      },
+      {
+        "title": "24/7 Lofi Radio",
+        "image": "img/stations/09.gif",
+        "url": "https://ec3.yesstreaming.net:3755/stream",
+        "favorite": false
+      },
+      {
         "title": "Test Lofi 4 You",
-        "image": "img/stations/01.gif",
+        "image": "img/stations/10.gif",
         "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        "favorite": true
+        "favorite": false
       },
       {
-        "title": "2 Lofi 4 You",
-        "image": "img/stations/01.gif",
-        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        "favorite": true
-      },
-      {
-        "title": "3 Lofi 4 You",
-        "image": "img/stations/01.gif",
-        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        "favorite": true
-      },
-      {
-        "title": "222 Lofi 4 You",
-        "image": "img/stations/01.gif",
-        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        "favorite": true
+        "title": "LoFi Lounge & Chill",
+        "image": "img/stations/11.gif",
+        "url": "https://cdn.audioaddict.com/di.fm/assets/flux/enzoot-light-webfont-5110c4526b5ecb880ca17a90eb47538d95a67cf6918191aa35e384497a2a5de4.woff",
+        "favorite": false
       }
     ]
   }
