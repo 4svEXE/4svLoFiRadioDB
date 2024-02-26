@@ -9,7 +9,13 @@
         "favorite": true
       },
       {
-        "title": "Test 22333 Lofi 4 You",
+        "title": "2 Lofi 4 You",
+        "image": "img/stations/01.gif",
+        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
+        "favorite": true
+      },
+      {
+        "title": "3 Lofi 4 You",
         "image": "img/stations/01.gif",
         "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
         "favorite": true
