@@ -1,81 +1,134 @@
 [
-  {
-    "version": 1.003,
-    "stations": [
-      {
-        "title": "Cosmo Dreams",
-        "image": "img/stations/12.gif",
-        "url": "https://content.audioaddict.com/prd/8/4/6/2/8/2bcced572f2d5181e0a4fd77ba78ecd5676.mp4?purpose=playback&audio_token=e40aca5714401625e3d50918dc359d07&network=di&device=opera_107_windows_10&exp=2024-02-27T19:39:56Z&auth=7caa14e099c586cdfb5e05f81a01cbbcb1591691",
-        "favorite": true
-      },
-      {
-        "title": "Yoga Chill",
-        "image": "img/stations/01.gif",
-        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        "favorite": false
-      },
-      {
-        "title": "Radio ZEN",
-        "image": "img/stations/05.gif",
-        "url": "https://streaming.shoutcast.com/radiozen",
-        "favorite": false
-      },
-
-      {
-        "title": "Absolute Chillout",
-        "image": "img/stations/02.gif",
-        "url": "https://stream-160.zeno.fm/0r0xa792kwzuv?zs=G0WO2et-SnG7qmsbsTLsqQ",
-        "favorite": false
-      },
-      {
-        "title": "Instrumental Hits",
-        "image": "img/stations/03.gif",
-        "url": "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3",
-        "favorite": false
-      },
-      {
-        "title": "Play Chill Radio",
-        "image": "img/stations/04.gif",
-        "url": "https://c5.auracast.net/listen/play_chill_radio/radio.mp3",
-        "favorite": false
-      },
-      
-      {
-        "title": "Lounge Fm Terrace",
-        "image": "img/stations/06.gif",
-        "url": "https://cast.mediaonline.net.ua/terrace320",
-        "favorite": false
-      },
-      {
-        "title": "1.FM",
-        "image": "img/stations/07.gif",
-        "url": "https://strmreg.1.fm/ambientpsy_mobile_mp3",
-        "favorite": false
-      },
-      {
-        "title": "Hollywood Wine",
-        "image": "img/stations/08.gif",
-        "url": "https://stream-158.zeno.fm/5dyp73rrqwzuv?zs=OaGGYtEtSuCERVzBZAJ5rw",
-        "favorite": false
-      },
-      {
-        "title": "24/7 Lofi Radio",
-        "image": "img/stations/09.gif",
-        "url": "https://ec3.yesstreaming.net:3755/stream",
-        "favorite": false
-      },
-      {
-        "title": "Test Lofi 4 You",
-        "image": "img/stations/10.gif",
-        "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
-        "favorite": false
-      },
-      {
-        "title": "LoFi Lounge & Chill",
-        "image": "img/stations/11.gif",
-        "url": "https://cdn.audioaddict.com/di.fm/assets/flux/enzoot-light-webfont-5110c4526b5ecb880ca17a90eb47538d95a67cf6918191aa35e384497a2a5de4.woff",
-        "favorite": false
-      }
-    ]
-  }
+    {
+        "version": 1.005,
+        "stations": [
+            {
+                "title": "24/7 Lofi Radio",
+                "image": "img/stations/01.gif",
+                "url": "https://ec3.yesstreaming.net:3755/stream",
+                "favorite": false
+            },
+            {
+                "title": "LoFi Chillout",
+                "image": "img/stations/02.gif",
+                "url": "https://stream-160.zeno.fm/0r0xa792kwzuv?zs=G0WO2et-SnG7qmsbsTLsqQ",
+                "favorite": false
+            },
+            {
+                "title": "Cosmo Dreams",
+                "image": "img/stations/03.gif",
+                "url": "https://content.audioaddict.com/prd/8/4/6/2/8/2bcced572f2d5181e0a4fd77ba78ecd5676.mp4?purpose=playback&audio_token=e40aca5714401625e3d50918dc359d07&network=di&device=opera_107_windows_10&exp=2024-02-27T19:39:56Z&auth=7caa14e099c586cdfb5e05f81a01cbbcb1591691",
+                "favorite": false
+            },
+            {
+                "title": "Yoga Chill",
+                "image": "img/stations/04.gif",
+                "url": "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
+                "favorite": false
+            },
+            {
+                "title": "Radio ZEN",
+                "image": "img/stations/05.gif",
+                "url": "https://streaming.shoutcast.com/radiozen",
+                "favorite": false
+            },
+            {
+                "title": "Instrumental Hits",
+                "image": "img/stations/06.gif",
+                "url": "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3",
+                "favorite": false
+            },
+            {
+                "title": "Play Chill Radio",
+                "image": "img/stations/07.gif",
+                "url": "https://c5.auracast.net/listen/play_chill_radio/radio.mp3",
+                "favorite": false
+            },
+            {
+                "title": "Hollywood Wine",
+                "image": "img/stations/08.gif",
+                "url": "https://stream-158.zeno.fm/5dyp73rrqwzuv?zs=OaGGYtEtSuCERVzBZAJ5rw",
+                "favorite": false,
+                "8": 8
+            },
+            {
+                "title": "Lofi 24/7",
+                "image": "img/stations/09.gif",
+                "url": "https://usa9.fastcast4u.com/proxy/jamz?mp=/1",
+                "favorite": false
+            },
+            {
+                "title": "Energy Lo-Fi",
+                "image": "img/stations/10.gif",
+                "url": "https://scraper2.onlineradiobox.com/us.lofipanda?l=1709152110",
+                "favorite": false
+            },
+            {
+                "title": "The Sitio Lounge",
+                "image": "img/stations/11.gif",
+                "url": "https://a1.asurahosting.com/listen/sitio_lounge/radio.mp3",
+                "favorite": false
+            },
+            {
+                "title": "Radio Free Otaku",
+                "image": "img/stations/12.gif",
+                "url": "https://streaming.radio.co/s8267e5edc/listen",
+                "favorite": false
+            },
+            {
+                "title": "945 - Your k-pop",
+                "image": "img/stations/13.gif",
+                "url": "https://jaynair.radioca.st/stream",
+                "favorite": false
+            },
+            {
+                "title": "Otaku no Radio",
+                "image": "img/stations/14.gif",
+                "url": "http://radio.otakunopodcast.com:8000/otakunoradio",
+                "favorite": false
+            },
+            {
+                "title": "Streaming Soundtracks",
+                "image": "img/stations/15.gif",
+                "url": "http://hi5.streamingsoundtracks.com/;",
+                "favorite": false
+            },
+            {
+                "title": "Gamepad Music",
+                "image": "img/stations/16.gif",
+                "url": "https://centova.listenon.in/proxy/gamepad/stream",
+                "favorite": false
+            },
+            {
+                "title": "Instrumentales De Oro",
+                "image": "img/stations/17.gif",
+                "url": "https://stream-168.zeno.fm/0anygxe1b1duv?zs=PT_6Nvq0Qm6evPMVv4BOcg",
+                "favorite": false
+            },
+            {
+                "title": "Sax4Love",
+                "image": "img/stations/18.gif",
+                "url": "https://radio2.vip-radios.fm:18054/stream-128kmp3-Sax4love",
+                "favorite": false
+            },
+            {
+                "title": "plaza.one",
+                "image": "img/stations/19.gif",
+                "url": "https://radio.plaza.one/ogg?nocache=1709153578462",
+                "favorite": false
+            },
+            {
+                "title": "BigFM Star",
+                "image": "img/stations/20.gif",
+                "url": "https://audiotainment-sw.streamabc.net/atsw-lofifocus-mp3-128-3757575?sABC=65qs9r54%230%23r0pp6o5q7o21ro0769r41111or0q3320%23yvirbaenqvb&aw_0_1st.playerid=liveonradio&amsparams=playerid:liveonradio;skey:1709153876",
+                "favorite": false
+            },
+            {
+                "title": "Vaporwaves",
+                "image": "img/stations/21.gif",
+                "url": "https://ice2.somafm.com/vaporwaves-128-mp3",
+                "favorite": false
+            }
+        ]
+    }
 ]
