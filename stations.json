@@ -1,6 +1,6 @@
 [
     {
-        "version": 1.008,
+        "version": 1.009,
         "stations": [
             {
                 "title": "24/7 Lofi Radio",
@@ -14,10 +14,10 @@
                 "url": "https://stream-160.zeno.fm/0r0xa792kwzuv?zs=G0WO2et-SnG7qmsbsTLsqQ",
                 "favorite": false
             },
-            {
-                "title": "Cosmo Dreams",
-                "image": "img/stations/03.gif",
-                "url": "https://content.audioaddict.com/prd/8/4/6/2/8/2bcced572f2d5181e0a4fd77ba78ecd5676.mp4?purpose=playback&audio_token=e40aca5714401625e3d50918dc359d07&network=di&device=opera_107_windows_10&exp=2024-02-27T19:39:56Z&auth=7caa14e099c586cdfb5e05f81a01cbbcb1591691",
+             {
+                "title": "Lofi 24/7",
+                "image": "img/stations/09.gif",
+                "url": "https://usa9.fastcast4u.com/proxy/jamz?mp=/1",
                 "favorite": false
             },
             {
@@ -27,15 +27,9 @@
                 "favorite": false
             },
             {
-                "title": "Radio ZEN",
-                "image": "img/stations/05.gif",
-                "url": "https://streaming.shoutcast.com/radiozen",
-                "favorite": false
-            },
-            {
-                "title": "Instrumental Hits",
-                "image": "img/stations/06.gif",
-                "url": "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3",
+                "title": "Vaporwaves",
+                "image": "img/stations/21.gif",
+                "url": "https://ice2.somafm.com/vaporwaves-128-mp3",
                 "favorite": false
             },
             {
@@ -52,17 +46,26 @@
                 "8": 8
             },
             {
-                "title": "Lofi 24/7",
-                "image": "img/stations/09.gif",
-                "url": "https://usa9.fastcast4u.com/proxy/jamz?mp=/1",
+                "title": "HotMix Lo-Fi",
+                "image": "img/stations/10.gif",
+                "url": "https://streaming.hotmixradio.fr/hotmix-lo-fi-en-mp3",
+                "favorite": false
+            },
+            
+            {
+                "title": "Radio ZEN",
+                "image": "img/stations/05.gif",
+                "url": "https://streaming.shoutcast.com/radiozen",
                 "favorite": false
             },
             {
-                "title": "Energy Lo-Fi",
-                "image": "img/stations/10.gif",
-                "url": "https://scraper2.onlineradiobox.com/us.lofipanda?l=1709152110",
+                "title": "Instrumental Hits",
+                "image": "img/stations/06.gif",
+                "url": "https://ais-edge89-dal02.cdnstream.com/b05055_128mp3",
                 "favorite": false
             },
+            
+            
             {
                 "title": "The Sitio Lounge",
                 "image": "img/stations/11.gif",
@@ -123,10 +126,11 @@
                 "url": "https://audiotainment-sw.streamabc.net/atsw-lofifocus-mp3-128-3757575?sABC=65qs9r54%230%23r0pp6o5q7o21ro0769r41111or0q3320%23yvirbaenqvb&aw_0_1st.playerid=liveonradio&amsparams=playerid:liveonradio;skey:1709153876",
                 "favorite": false
             },
+            
             {
-                "title": "Vaporwaves",
-                "image": "img/stations/21.gif",
-                "url": "https://ice2.somafm.com/vaporwaves-128-mp3",
+                "title": "Cosmo Dreams",
+                "image": "img/stations/03.gif",
+                "url": "https://content.audioaddict.com/prd/8/4/6/2/8/2bcced572f2d5181e0a4fd77ba78ecd5676.mp4?purpose=playback&audio_token=e40aca5714401625e3d50918dc359d07&network=di&device=opera_107_windows_10&exp=2024-02-27T19:39:56Z&auth=7caa14e099c586cdfb5e05f81a01cbbcb1591691",
                 "favorite": false
             }
         ]
