@@ -1,10 +1,10 @@
 [
     {
-        "version": 1.005,
+        "version": 1.006,
         "stations": [
             {
                 "title": "24/7 Lofi Radio",
-                "image": "img/stations/01.gif",
+                "image": "https://raw.githubusercontent.com/4svEXE/4svLoFiRadioDB/main/assets/img/test.gif",
                 "url": "https://ec3.yesstreaming.net:3755/stream",
                 "favorite": false
             },
